@@ -1,62 +1,27 @@
-# 👋 Bonjour, moi c'est Illona
+# Bonjour, moi c'est Illona 👋
 
-Développeuse Web Full-Stack passionnée par les applications modernes, le cloud et les projets qui vont jusqu'en production.
+Développeuse Web Full Stack (React • Next.js • Node.js) basée en Île-de-France.
+Je conçois des applications web modernes, des API et des projets déployés en production.
 
-🎯 **Je recherche actuellement un CDI à partir d'octobre 2026**
-
----
+🎯 Disponible en CDI dès octobre 2026
 
 ## 🛠️ Stack principale
 
-### Front-end
+* Front-end : React, Next.js, TypeScript, SCSS
+* Back-end : Node.js, Express.js
+* Data : PostgreSQL, Prisma, GraphQL, Strapi
+* DevOps / Cloud : Docker, GitHub Actions, Vercel, Azure, Render
+* IA : Mistral AI API
 
-* React
-* Next.js
-* TypeScript
-* SCSS
+## 🚀 Projets à découvrir
 
-### Back-end
-
-* Node.js
-* Express.js
-* PostgreSQL
-* Prisma
-* GraphQL
-
-### DevOps / Cloud
-
-* Docker
-* GitHub Actions
-* Azure
-* Vercel
-* Render
-
----
-
-## 🚀 Projets en avant
-
-### 🩺 Healis
-
-Application mobile d'accompagnement TCA avec IA (React Native, Node.js, PostgreSQL, Prisma, Mistral AI)
-
-➡️ https://github.com/IllonaSab/Healis
-
-### 📊 StreamingDashboard
-
-Dashboard temps réel avec visualisation de données (TypeScript)
-
-➡️ https://github.com/IllonaSab/StreamingDashboard
-
-### 🌐 Portfolio
-
-Mon portfolio personnel
-
-➡️ https://portfolio-three-smoky-544g5cr82q.vercel.app
-
----
+* **Healis** — application mobile TCA avec assistance IA (React Native / Node.js / PostgreSQL)
+* **Marketium** — plateforme de contenu headless (Angular / Strapi / GraphQL)
+* **FeelPulse** — SaaS d'analyse des retours clients en temps réel (React / Node.js)
+* **Portfolio** — site personnel présentant mes projets et compétences
 
 ## 📫 Me contacter
 
-* LinkedIn : https://www.linkedin.com/in/illona-saboundjian-7a3085200/
+* LinkedIn : https://www.linkedin.com/in/illona-saboundjian-7a3085200
 * Portfolio : https://portfolio-three-smoky-544g5cr82q.vercel.app
 * Email : [sabouillona@gmail.com](mailto:sabouillona@gmail.com)
