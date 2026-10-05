@@ -2,7 +2,7 @@
 
 Développeuse Full Stack spécialisée en React, Node.js et PostgreSQL.
 
-Après 3 années d'alternance chez Esme Solutions et la finalisation de mon cursus en Développement Full Stack, je suis à la recherche de ma prochaine opportunité en CDI en Île-de-France.
+Après 3 années d'alternance chez Esme Solutions et la finalisation de mon cursus en Développement Full Stack, je suis à la recherche de ma prochaine opportunité en CDI en Île-de-France ou en région.
 
 J'interviens sur l'ensemble du cycle de développement d'une application, de la conception à la mise en production. Passionnée par le développement web, mobile et l'IA générative, j'aime concevoir des applications performantes et centrées utilisateur.
 
