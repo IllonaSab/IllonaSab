@@ -43,6 +43,10 @@ Application full stack de gestion de tickets, avec authentification.
 Présentation de mon parcours et de mes projets.
 `Next.js` `TypeScript`
 
+### [StreamingDashboard](https://github.com/IllonaSab/StreamingDashboard)
+Tableau de bord analytique avec 4 blocs de données indépendants : utilisateurs, posts, todos et commentaires.
+`Next.js` `React 19` `TypeScript` `Tailwind CSS`
+
 ## 📫 Me contacter
 
 [LinkedIn](https://www.linkedin.com/in/illona-saboundjian/)
