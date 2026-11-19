@@ -1,52 +1,51 @@
-# Illona Saboundjian — Développeuse Full Stack
+### Bonjour, moi c'est Illona Saboundjian 👋
 
-**React · Node.js · PostgreSQL**
+**Développeuse Full Stack (React.js • Node.js • PostgreSQL)**
+Diplômée d'un **Master Expert Développement Full Stack** • **3 ans d'expérience en alternance** chez **Esmé Solutions**
 
-## 👋 À propos
+Je conçois des applications web et mobiles complètes, de la modélisation base de données jusqu'à l'interface utilisateur, en intégrant l'automatisation et l'intelligence artificielle.
 
-Développeuse Full Stack certifiée **Expert en développement logiciel (RNCP39583, niveau 7)**.
+---
 
-- 3 ans d’alternance chez Esme Solutions
-- Master Full Stack à Ynov Paris Campus
-- Applications web et mobiles, de la conception à la mise en production
-- Intérêt pour l’IA générative et les produits centrés utilisateur
+### 🚀 Projets phares
 
-## 💼 Recherche
+* **[Healis](https://github.com/IllonaSab)** — *Application mobile de suivi santé*
+  * **Stack :** React Native, Node.js, PostgreSQL, Prisma ORM, Mistral AI API, Stripe, OAuth, GitHub Actions
+  * **Réalisations :**
+    * Conception et développement de l'application mobile cross-platform sous React Native et Node.js.
+    * Modélisation de la base de données PostgreSQL et développement de l'API REST avec Prisma ORM.
+    * Intégration de l'authentification OAuth, des paiements Stripe et d'un assistant IA (Mistral AI API).
+    * Automatisation des tests et du déploiement continu (CI/CD) via GitHub Actions.
 
-- **Contrat :** CDI
-- **Lieu :** Île-de-France
-- **Mode :** hybride ou présentiel
-- **Disponibilité :** immédiate
+* **[Ticketing Tool](https://github.com/IllonaSab)** — *Application de gestion de tickets*
+  * **Stack :** Next.js, React, TypeScript, Strapi, SQLite, JWT
+  * **Réalisations :**
+    * Développement d'un outil de gestion de tickets full stack sous Next.js, React et TypeScript.
+    * Mise en place de l'authentification sécurisée (JWT stocké dans des cookies HTTPOnly).
+    * Sécurisation des routes et des mutations via middleware et Server Actions.
+    * Création d'un tableau de bord interactif avec graphiques, filtres et rendu SSR.
 
-## 🚀 Stack technique
+---
 
-- **Frontend et mobile :** React, React Native, Next.js, TypeScript, Tailwind CSS, Figma
-- **Backend et données :** Node.js, Express, PostgreSQL, Prisma ORM, Supabase
-- **DevOps :** Git, GitHub Actions, Docker
-- **IA :** Mistral AI, prompt engineering, intégration d’API d’IA générative
+### 💼 Expérience clé : Esmé Solutions (2023 – 2026)
 
-## 📌 Projets
+* **Développeuse (Alternance, 2024 – 2026) :** Conception de 2 agents IA sous Microsoft Copilot Studio générant des scripts JSON sans erreur (temps divisé par 3), conception de la maquette de supervision D-One (100 % des démos clients sécurisées), résolution d'incidents techniques (Mantis) et rédaction de la documentation fonctionnelle.
+* **Préparatrice d'affaires (Alternance, 2023 – 2024) :** Configuration d'automates industriels (UC4 / DB-70), synoptiques embarqués, scripts de régulation CVC/éclairages et télémaintenance via VPN.
 
-### [Healis](https://github.com/IllonaSab/Healis_IS)
-Application mobile de suivi santé avec IA.
-`React Native` `Node.js` `PostgreSQL` `Prisma` `Mistral AI` `Stripe`
+---
 
-### [Marketium](https://github.com/IllonaSab/Marketium)
-CMS headless avec authentification et gestion de contenu.
-`Angular` `Strapi` `GraphQL`
+### 🛠️ Stack Technique
 
-### [Ticketing Tool](https://github.com/IllonaSab/NextM2)
-Application full stack de gestion de tickets, avec authentification.
-`Next.js` `Strapi`
+* **Frontend :** JavaScript, React.js, HTML5, CSS3, Tailwind CSS
+* **Backend & Data :** Node.js, Express.js, PostgreSQL, JSON
+* **IA & Intégrations :** Microsoft Copilot Studio, Mistral AI API, Stripe, OAuth
+* **Outils & Déploiement :** GitHub, GitHub Actions, Vercel, Figma
+* **Technologies explorées en projet :** React Native, Next.js, TypeScript, Angular, GraphQL, Prisma ORM, Supabase, Strapi, SQLite, Docker, Azure
 
-### [Portfolio](https://github.com/IllonaSab/Portfolio_IS)
-Présentation de mon parcours et de mes projets.
-`Next.js` `TypeScript`
+---
 
-### [StreamingDashboard](https://github.com/IllonaSab/StreamingDashboard)
-Tableau de bord analytique avec 4 blocs de données indépendants : utilisateurs, posts, todos et commentaires.
-`Next.js` `React 19` `TypeScript` `Tailwind CSS`
+### 📫 Contact & Liens
 
-## 📫 Me contacter
-
-[LinkedIn](https://www.linkedin.com/in/illona-saboundjian/)
+* 🌐 **Portfolio :** [portfolio-is-phi.vercel.app](https://portfolio-is-phi.vercel.app/)
+* 💼 **LinkedIn :** [linkedin.com/in/illona-saboundjian](https://www.linkedin.com/in/illona-saboundjian/)
+* 📍 **Disponibilité :** Immédiate (CDI, CDD) • Île-de-France ou mobile
