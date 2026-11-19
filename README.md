@@ -9,7 +9,7 @@ Je conçois des applications web et mobiles complètes, de la modélisation base
 
 ### 🚀 Projets phares
 
-* **[Healis](https://github.com/IllonaSab)** — *Application mobile de suivi santé*
+* **[Healis](https://github.com/IllonaSab/Healis_IS)** — *Application mobile de suivi santé*
   * **Stack :** React Native, Node.js, PostgreSQL, Prisma ORM, Mistral AI API, Stripe, OAuth, GitHub Actions
   * **Réalisations :**
     * Conception et développement de l'application mobile cross-platform sous React Native et Node.js.
@@ -17,7 +17,7 @@ Je conçois des applications web et mobiles complètes, de la modélisation base
     * Intégration de l'authentification OAuth, des paiements Stripe et d'un assistant IA (Mistral AI API).
     * Automatisation des tests et du déploiement continu (CI/CD) via GitHub Actions.
 
-* **[Ticketing Tool](https://github.com/IllonaSab)** — *Application de gestion de tickets*
+* **[Ticketing Tool](https://github.com/IllonaSab/TicketingTool)** — *Application de gestion de tickets*
   * **Stack :** Next.js, React, TypeScript, Strapi, SQLite, JWT
   * **Réalisations :**
     * Développement d'un outil de gestion de tickets full stack sous Next.js, React et TypeScript.
