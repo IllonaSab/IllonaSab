@@ -46,6 +46,7 @@ Je conçois des applications web et mobiles complètes, de la modélisation base
 
 ### 📫 Contact & Liens
 
+* 📄 **CV (PDF) :** [Télécharger mon CV](https://github.com/IllonaSab/IllonaSab/blob/main/CV_SABOUNDJIAN_Illona.pdf)
 * 🌐 **Portfolio :** [portfolio-is-phi.vercel.app](https://portfolio-is-phi.vercel.app/)
 * 💼 **LinkedIn :** [linkedin.com/in/illona-saboundjian](https://www.linkedin.com/in/illona-saboundjian/)
 * 📍 **Disponibilité :** Immédiate (CDI, CDD) • Île-de-France ou mobile
